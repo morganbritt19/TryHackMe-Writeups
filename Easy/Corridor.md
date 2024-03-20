@@ -1,4 +1,4 @@
-# [Corridor](https://tryhackme.com/r/room/corridor) THM Room 
+# [Corridor THM Room](https://tryhackme.com/r/room/corridor)
 ## Scanning
 ### Nmap
 ```
