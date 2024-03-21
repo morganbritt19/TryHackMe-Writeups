@@ -53,7 +53,7 @@ Based on our Nmap scan, it looks like the target machine is hosting a simple web
 
 
 
-Unfortunately, out initial Gobuster scan didn't yield any worthwhile results. However, by exploring the webpage, we can see that each door has a link to a different URL. For example, the first door on the left has a URL of `target-ip/c4ca4238a0b923820dcc509a6f75849b`. Here is what the page shows:
+Unfortunately, our initial Gobuster scan didn't yield any worthwhile results. However, by exploring the webpage, we can see that each door has a link to a different URL. For example, the first door on the left has a URL of `target-ip/c4ca4238a0b923820dcc509a6f75849b`. Here is what the page shows:
 
 
 ![Room 1 on Left](https://github.com/morganbritt19/TryHackMe-Writeups/assets/60797871/3222eb53-daf8-4148-891d-61770e287313)
